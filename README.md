@@ -1,5 +1,5 @@
 # github-commit-tracker
 Tracks public contributions and repository activities.
 // Edit this variable to add new commits
-const currentUpdate = 5;
+const currentUpdate = 6;
 console.log(`Commit Tracker Code: ${currentUpdate}`);
